@@ -27,7 +27,7 @@ bool isErrorLogOpen;
 
 /* Function Prototype Definition Section */
 bool openLogFile(unsigned int LogFile);
-bool closeFile(unsigned int LogFile);
+bool closeLogFile(unsigned int LogFile);
 
 class LogManager
 {

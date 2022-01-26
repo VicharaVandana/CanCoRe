@@ -11,7 +11,7 @@
 
 /* Function Declaration Section */
 extern bool openLogFile(unsigned int LogFile);
-extern bool closeFile(unsigned int LogFile);
+extern bool closeLogFile(unsigned int LogFile);
 
 
 
